@@ -1,6 +1,6 @@
 {
   "name": "winston-journald3",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "A Journald transport for Winston 3.0",
   "main": "dist/winston-journald3.js",
   "repository": "https://github.com/sargun/winston-journald3",
