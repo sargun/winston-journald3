@@ -1,0 +1,5 @@
+yarn-error.log
+dist
+*.code-workspace
+node_modules
+coverage
