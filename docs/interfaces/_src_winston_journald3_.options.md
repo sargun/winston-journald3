@@ -53,7 +53,7 @@ ___
 
 • `Optional` **identifier**: undefined \| string
 
-*Defined in [src/winston-journald3.ts:8](https://github.com/sargun/winston-journald3/blob/ec8c754/src/winston-journald3.ts#L8)*
+*Defined in [src/winston-journald3.ts:8](https://github.com/sargun/winston-journald3/blob/190102f/src/winston-journald3.ts#L8)*
 
 ___
 
@@ -71,7 +71,7 @@ ___
 
 • `Optional` **messageAsFinalizingFormat**: undefined \| false \| true
 
-*Defined in [src/winston-journald3.ts:10](https://github.com/sargun/winston-journald3/blob/ec8c754/src/winston-journald3.ts#L10)*
+*Defined in [src/winston-journald3.ts:10](https://github.com/sargun/winston-journald3/blob/190102f/src/winston-journald3.ts#L10)*
 
 ___
 

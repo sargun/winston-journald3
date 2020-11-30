@@ -6,9 +6,24 @@
 
   [![NPM Version][npm-image]][npm-url]
   [![Build][github-image]][github-url]
-  [![codecov](https://codecov.io/gh/sargun/winston-journald/branch/main/graph/badge.svg?token=91FMU8M65R)](https://codecov.io/gh/sargun/winston-journald)
+  [![codecov](https://codecov.io/gh/sargun/winston-journald3/branch/main/graph/badge.svg?token=91FMU8M65R)](https://codecov.io/gh/sargun/winston-journald3)
 
 # [Documentation](https://github.com/sargun/winston-journald3/tree/main/docs)
+
+# Why?
+Winston has structured logging with non-structured messages as well. It's become
+the ubiquitous solution in the logging space (alongside bunyan, and others). Structured
+logs are nice.
+
+Journald solves a number of problems around logs. It solves the problem of compression,
+rotation, and storage on behalf of the application. Its format, and approach is congruent
+with Winston, in that it supports structured logging as a "first class" primitive.
+
+The intent of this Winston 3 transport is to be a lightweight wrapper journald. This,
+being a native Winston 3 transport has some benefits over [winston-journald](https://github.com/RoCat/winston-journald),
+a Winston 2 transport, like dynamic log levels.
+
+Also this can compile, and be installed on Mac OS.
 
 # Installation
 
@@ -104,6 +119,9 @@ Example output:
 ```javascript
 // TODO: Can someone please fill this in?
 ```
+
+# Caveats
+Logs statements greater than 1 MB may not work.
 
 [npm-image]: https://img.shields.io/npm/v/winston-journald3.svg
 [npm-url]: https://npmjs.org/package/winston-journald3

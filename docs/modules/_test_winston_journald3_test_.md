@@ -16,7 +16,7 @@
 
 ▸ **journalctl**(`cmd`: string): Promise\<string>
 
-*Defined in [test/winston-journald3.test.ts:5](https://github.com/sargun/winston-journald3/blob/ec8c754/test/winston-journald3.test.ts#L5)*
+*Defined in [test/winston-journald3.test.ts:5](https://github.com/sargun/winston-journald3/blob/190102f/test/winston-journald3.test.ts#L5)*
 
 #### Parameters:
 

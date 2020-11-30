@@ -84,7 +84,7 @@
 
 *Overrides void*
 
-*Defined in [src/winston-journald3.ts:15](https://github.com/sargun/winston-journald3/blob/ec8c754/src/winston-journald3.ts#L15)*
+*Defined in [src/winston-journald3.ts:15](https://github.com/sargun/winston-journald3/blob/190102f/src/winston-journald3.ts#L15)*
 
 #### Parameters:
 
@@ -130,7 +130,7 @@ ___
 
 •  **journald**: Journald
 
-*Defined in [src/winston-journald3.ts:14](https://github.com/sargun/winston-journald3/blob/ec8c754/src/winston-journald3.ts#L14)*
+*Defined in [src/winston-journald3.ts:14](https://github.com/sargun/winston-journald3/blob/190102f/src/winston-journald3.ts#L14)*
 
 ___
 
@@ -148,7 +148,7 @@ ___
 
 •  **messageAsFinalizingFormat**: boolean
 
-*Defined in [src/winston-journald3.ts:15](https://github.com/sargun/winston-journald3/blob/ec8c754/src/winston-journald3.ts#L15)*
+*Defined in [src/winston-journald3.ts:15](https://github.com/sargun/winston-journald3/blob/190102f/src/winston-journald3.ts#L15)*
 
 ___
 
@@ -446,7 +446,7 @@ ___
 
 *Overrides void*
 
-*Defined in [src/winston-journald3.ts:51](https://github.com/sargun/winston-journald3/blob/ec8c754/src/winston-journald3.ts#L51)*
+*Defined in [src/winston-journald3.ts:51](https://github.com/sargun/winston-journald3/blob/190102f/src/winston-journald3.ts#L51)*
 
 **Returns:** void
 
@@ -717,7 +717,7 @@ ___
 
 *Overrides void*
 
-*Defined in [src/winston-journald3.ts:33](https://github.com/sargun/winston-journald3/blob/ec8c754/src/winston-journald3.ts#L33)*
+*Defined in [src/winston-journald3.ts:33](https://github.com/sargun/winston-journald3/blob/190102f/src/winston-journald3.ts#L33)*
 
 #### Parameters:
 
@@ -1552,7 +1552,7 @@ ___
 
 ▸ `Static`**toPriority**(`level`: string): SyslogPrority
 
-*Defined in [src/winston-journald3.ts:65](https://github.com/sargun/winston-journald3/blob/ec8c754/src/winston-journald3.ts#L65)*
+*Defined in [src/winston-journald3.ts:65](https://github.com/sargun/winston-journald3/blob/190102f/src/winston-journald3.ts#L65)*
 
 #### Parameters:
 
@@ -1568,7 +1568,7 @@ ___
 
 ▸ `Static`**toString**(`value`: any): string
 
-*Defined in [src/winston-journald3.ts:57](https://github.com/sargun/winston-journald3/blob/ec8c754/src/winston-journald3.ts#L57)*
+*Defined in [src/winston-journald3.ts:57](https://github.com/sargun/winston-journald3/blob/190102f/src/winston-journald3.ts#L57)*
 
 #### Parameters:
 
