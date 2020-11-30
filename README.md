@@ -3,7 +3,7 @@
 
   [![NPM Version][npm-image]][npm-url]
   [![Build][github-image]][github-url]
-  [![codecov](https://codecov.io/gh/sargun/winston-journald/branch/main/graph/badge.svg?token=91FMU8M65R)](https://codecov.io/gh/sargun/winston-journald)
+  [![codecov](https://codecov.io/gh/sargun/winston-journald3/branch/main/graph/badge.svg?token=91FMU8M65R)](https://codecov.io/gh/sargun/winston-journald3)
 
 # [Documentation](https://github.com/sargun/winston-journald3/tree/main/docs)
 
