@@ -73,6 +73,7 @@ export default class WinstonJournald extends TransportStream {
             case "error":
                 return SyslogPrority.ERROR;
             case "warning":
+            case "warn":
                 return SyslogPrority.WARN;
             case "notice":
                 return SyslogPrority.NOTICE;
